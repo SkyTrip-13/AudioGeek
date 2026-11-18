@@ -108,4 +108,4 @@ In my opinion, at home it is much more interesting to listen to vinyl. But you c
 
 **(P.S. Comments are welcome, don't be shy :-)**
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

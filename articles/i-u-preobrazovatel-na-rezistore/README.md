@@ -166,4 +166,4 @@ From the I/V converter the signal should go to a low-pass filter. It is needed t
 
 At the moment the most interesting option I see is the ***[DAC low-pass filter on gyrators](../filtri-na-gyratorah/)***.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

@@ -68,4 +68,4 @@ It is desirable that the chip with the adapter be fully submerged in alcohol. Fo
 So, with the help of clever adapters, you can quickly turn chips from SO8 packages into DIP8. These adapters are very handy in practice and will certainly come in useful, especially if you are building a ***[headphone amplifier](https://audiogeek.ru/volx/)***.
 ![SO8 to DIP8 adapter for ICs](./13_SO8-to-DIP8.jpg)
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

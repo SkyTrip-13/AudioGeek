@@ -76,4 +76,4 @@ The symmetrical current-to-voltage converter is an example of an op-amp circuit 
 
 The circuits described are used everywhere. They are excellent for current sources whose signal changes smoothly. For DACs, a resistor is preferable. For why that is better, and how to match the resistor properly to the next stage, read [***A resistor for a current-output DAC***](../i-u-preobrazovatel-na-rezistore/).
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

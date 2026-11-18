@@ -47,4 +47,4 @@ To see that the iron is working, a lamp ***L1*** is fitted to it. The lamp is ve
 If you build a pulse soldering iron yourself to the design shown, it is very important to insulate well the studs and nuts that clamp the core and the copper busbars. For that it is better to use Teflon, varnished cloth, glass-fiber laminate or Pertinax (phenolic laminate).
 Built correctly, such an iron can be used for soldering with both low-melting and hard solders. Or you can burn wood with it. It is desirable to choose the tip so that the temperature in the drop of solder is held around 300–350 degrees.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

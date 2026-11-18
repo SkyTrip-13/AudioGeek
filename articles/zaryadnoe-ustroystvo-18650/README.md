@@ -73,4 +73,4 @@ That is where the handiwork ended. All through the process an intrusive thought 
 What is more, before the modification the LED simply glowed red during charging, and now it blinks from red to green. There is an Easter egg from our Chinese brother for you.
 Still, I recommend ripping out all the electronics and using this charger only as a case. And it is better to build an 18650 charger on ***[charge control modules](../kontroller-zaryada-li-ion-modul/),*** with a video about them at the beginning of the article. I recommend watching that video; I tried very hard to make it entertaining and educational :)
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

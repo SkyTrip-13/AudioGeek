@@ -51,4 +51,4 @@ Without this capacitor the op-amp may oscillate. This is especially relevant if 
 
 Ideally, buffers should be placed before and after the filter, for isolation and impedance matching. This applies to any filter. Buffers have their own article: ***[An op-amp voltage follower circuit. A powerful voltage follower on the TDA2030.](../povtoritel-opamp/)***
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

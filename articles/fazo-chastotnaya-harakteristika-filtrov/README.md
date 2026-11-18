@@ -76,4 +76,4 @@ Still, the Butterworth filter is not that bad. I would not recommend it for audi
 
 So how do you get a filter with minimal effect on phase? I asked myself this while choosing a reconstruction filter for a DAC. A gyrator-based filter turned out to be an excellent solution. It is described in detail in a ***[separate article](../filtri-na-gyratorah/)***. The filter described there sits between Bessel and Butterworth and has very interesting phase and amplitude characteristics.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

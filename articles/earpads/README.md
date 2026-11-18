@@ -130,4 +130,4 @@ That is all, the goal is achieved. The earpads were sewn by hand and are a fine 
 
 ![Finished earpads on the TDS-5](./00-ambushyur.jpg)
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

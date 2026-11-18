@@ -162,4 +162,4 @@ The same can be done with any other hybrid earphones. For example, Xiaomi's hybr
 
 If you have already started down this thorny road to quality sound, I also recommend reading the beginning of the article about the ***[portable headphone amplifier](https://audiogeek.ru/volx/)*** (in Russian). It will make clear why a phone is not the best sound source.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

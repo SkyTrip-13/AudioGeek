@@ -60,4 +60,4 @@ Extremely loud bass results when the back panel of the speaker is moved away fro
 
 And finally, during all your experiments with speaker placement it is recommended to turn your back to them. It has long been established in psychoacoustics that appearance has a strong effect, and if you do not like the arrangement visually, you will most likely not like the sound either.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

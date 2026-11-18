@@ -50,4 +50,4 @@ Incidentally, the TPS65133 is not the only one. The same family includes the TPS
 
 ***I would be very grateful to anyone who can suggest chips with similar characteristics. I look forward to your comments.***
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

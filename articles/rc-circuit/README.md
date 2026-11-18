@@ -80,4 +80,4 @@ The filter has practically infinite attenuation (*on the order of 60 dB*) at its
 
 > If you are interested in filters, you may also like: **[Phase response of filters and sound](../fazo-chastotnaya-harakteristika-filtrov/)**
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

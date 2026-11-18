@@ -92,4 +92,4 @@ P.S. To protect the rectifier against possible short circuits it is worth adding
 
 The value of R was chosen as 2 kΩ and C as 0.01 µF.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

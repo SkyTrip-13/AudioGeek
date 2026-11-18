@@ -77,4 +77,4 @@ I hope the article managed to show how to repair headphones with your own hands.
 
 > **This method has one weak spot: the use of hot-melt glue.** Over time it can soften.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

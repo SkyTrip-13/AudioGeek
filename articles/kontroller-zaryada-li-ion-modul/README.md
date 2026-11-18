@@ -135,4 +135,4 @@ Buying them one at a time is not worthwhile, since sellers inflate the price of 
 
 To be honest, I did not expect such results myself, but the lithium battery charging modules performed very well, and I definitely recommend buying such a controller. You can build many interesting things with them. Soon I will show how to use them to build an uninterruptible power supply for Canon cameras.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

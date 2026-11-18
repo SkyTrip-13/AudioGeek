@@ -187,4 +187,4 @@ But the circuit described here is suitable for the vast majority of cases where 
 
 Generating a signal is great, but how do you accurately measure the level of a high-frequency AC voltage? A circuit called the [active rectifier](../aktivniy-vipryamitel/) is excellent for that.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

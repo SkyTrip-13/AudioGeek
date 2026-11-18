@@ -56,4 +56,4 @@ Resistors R3 and R4 set the gain of the second stage, which is an ordinary diffe
 
 I plan to build several such amplifiers soon, so a PCB layout will appear here before long :-)
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

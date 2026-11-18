@@ -120,4 +120,4 @@ Although the circuit looks big and unusual, this filter is definitely worth the 
 
 > **The filter was built and has been working great in a portable player for several months. More here:** ***[A high-quality audio path: a complete mod of the HiFiMan HM-601 player](../hifiman-hm-601-full-mod/)***.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

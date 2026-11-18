@@ -86,4 +86,4 @@ These chips are undoubtedly very interesting candidates for building DC-DC conve
 
 If you want tastier characteristics, in particular a conversion frequency above 1.5 MHz, an output current above 400 mA and a stable dual output voltage of ±5 volts, it is worth taking a closer look at the ***[converter on the TPS65130](../unipolar-to-bipolar-voltage-converter/)***.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

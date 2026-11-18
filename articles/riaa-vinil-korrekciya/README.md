@@ -37,4 +37,4 @@ The crystal pickups used earlier had the inverse characteristic and needed no co
 
 There is a huge number of circuit solutions for such equalizers. They are built with tubes, with transistors and with op-amps. Simple circuits that are easy to repeat and that meet the RIAA vinyl equalization standard are covered in detail in the article [**Vinyl RIAA preamp: proven simple circuits**](../riaa-korrektor/).
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

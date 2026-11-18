@@ -124,4 +124,4 @@ I usually set the level to −3 dB. That means the limiter cuts 3 dB from the to
 
 After the limiter, normalize the recording again to stretch it over the whole range, and export the finished recording to a file.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

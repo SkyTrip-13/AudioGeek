@@ -65,4 +65,4 @@ Of course, storing and washing vinyl records while observing absolutely all the 
 
 ![How to store and wash vinyl records properly](./kak-sledit-za-vinilom-01.jpg)
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

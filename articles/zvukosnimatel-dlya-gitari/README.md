@@ -88,4 +88,4 @@ After soldering, plug the guitar into an amplifier and tap the pickup with a met
 
 Tune up the strings and enjoy the new sound, turning the pedal knobs in all directions.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

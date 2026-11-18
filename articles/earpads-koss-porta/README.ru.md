@@ -104,4 +104,4 @@
  
 
 
-***Материал подготовлен исключительно для сайта* [AudioGeek.ru](http://audiogeek.ru)**
+***Материал подготовлен исключительно для сайта* [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek)**

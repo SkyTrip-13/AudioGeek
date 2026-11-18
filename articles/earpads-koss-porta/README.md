@@ -101,4 +101,4 @@ Paying about as much as for a cup of coffee at Starbucks, we got comfortable ear
 Yes, the earpads were initially very disappointing. But what came out in the end is, in my opinion, a perfect solution. The sound of the Koss Porta drivers themselves has appeared, without filtering through foam. So I boldly recommend buying these earpads and modifying them, if it can be called that :)
 ![The perfect earpads for the Koss Porta Pro](./18-koss_porta_earpads.jpg)
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

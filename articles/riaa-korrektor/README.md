@@ -54,4 +54,4 @@ TL062 and TL072 can also be used as the op-amps, but it is better to prefer the 
 
 Which version to build and on which op-amps is up to you. I personally prefer the dual-supply op-amp circuit because it has no extra parts, but the single-supply circuit does its job just as well, and good op-amps and components give a significant improvement in sound quality.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

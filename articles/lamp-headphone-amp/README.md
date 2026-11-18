@@ -139,4 +139,4 @@ With this amplifier I rediscovered my headphones. The circuit is so simple that 
 
 **Good luck and good sound to everyone!**
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

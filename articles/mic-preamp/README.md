@@ -212,4 +212,4 @@ I plan to buy a decent original capsule, such as a Philips 61A, and enjoy life.
 
 ***Thanks for reading, and good sound to everyone!***
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

@@ -191,4 +191,4 @@ I used a piece 8–10 cm long. To strengthen the construction, the end of the tu
 As you see, it is not at all as hard as it seems. Now you know how to fix headphones without a soldering iron. Such a repair cannot be called full-fledged; it is rather an alternative for emergencies.
 Of course it is possible that your headphones will work for a very, very long time after such a repair. But in any case it is more reliable to solder the twisted headphone wires. It is not hard at all. Read how: ***[How to easily learn to solder wires properly, using headphones as an example](../kak-nauchitsya-payat-naushniki/)***
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

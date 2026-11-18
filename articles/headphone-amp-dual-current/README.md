@@ -129,6 +129,6 @@ I do not like describing sound in subjective terms such as "crystal highs" or "w
 
 > **This circuit led to the idea of a portable headphone amplifier, the *Vol.X project*: a complete portable headphone amplifier built from scratch.**
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*
 
 *Visit my [YouTube channel](https://www.youtube.com/channel/UC86Un7mhv1TsEdaCO3ldjrg).*

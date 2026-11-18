@@ -137,4 +137,4 @@ An interesting representative of full-size headphones is the ***HD668*** headpho
 However hard manufacturers try, ideal headphones simply do not exist. But each type of headphones has its strengths and weaknesses. For example, in the subway it makes more sense to take in-ear buds with you, and to enjoy full-size headphones at home.
 It is worth repeating that all the types of headphones described can have either an open or a closed design. Read more about the differences between open and closed headphones in the article: ***[Open-back and closed-back headphones: which is better for what](../open-close-headphones/)***
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

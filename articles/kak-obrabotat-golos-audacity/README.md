@@ -156,4 +156,4 @@ Of course you can keep torturing the recording: remove again the noise that may 
 
 But remember that excessive compression can make the sound constricted and rob it of dynamics. In any case, the decision is yours and your ears'.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

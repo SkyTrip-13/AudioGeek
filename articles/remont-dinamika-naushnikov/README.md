@@ -147,4 +147,4 @@ These headphones had to survive similar manipulations twice more for various rea
 
 There is a sea of paths for experiments with sound! A very absorbing pastime :) two hours pass in one breath while you tensely carry out painstaking manipulations, and then you rejoice like a child that it worked after all ))
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

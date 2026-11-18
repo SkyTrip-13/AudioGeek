@@ -64,4 +64,4 @@ In my version the chip is powered from a regulated ±9 volts to keep the signal 
 
 The op-amp follower is perhaps the simplest, but very important, stage. When designing electronic devices, if one of the op-amps is left unused, it is definitely better to build a follower on it than to leave it idle. A voltage follower can also be used as an output current amplifier.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

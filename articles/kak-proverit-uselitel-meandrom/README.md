@@ -82,4 +82,4 @@ The cause of attenuation at low frequencies may be insufficient capacitance of t
 
 With a two-channel oscilloscope it is very useful to compare how identical the two stereo channels are, to check the accuracy of dual stereo potentiometers and the identity of filters, and also to compare them with a reference signal.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

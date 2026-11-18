@@ -74,4 +74,4 @@ It is a more advanced version of the differential amplifier described. This is e
 The current measurement method described is classic and used everywhere. This way you can measure current in almost any circuit and with any accuracy. A future article will show how to measure current when it is alternating.
 ***Feel free to share your opinion in the comments :)***
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

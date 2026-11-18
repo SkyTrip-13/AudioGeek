@@ -75,3 +75,5 @@
 [![Ремонт разъема наушников своими руками](./jack00.jpg)](../remont-razyoma-naushnikov/)**Перейти к статье:**
 
 [**Не работают наушники? Ремонт разъема наушников своими руками**](../remont-razyoma-naushnikov/)
+
+*Материал подготовлен исключительно для сайта [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek)*

@@ -120,4 +120,4 @@ I could not resist and also did the ***[vibration isolation of in-ear earbuds](.
 
 **Good luck!**
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

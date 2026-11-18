@@ -59,4 +59,4 @@ But you cannot deliver the same current through a 10 kΩ resistor. That would ne
 
 Of course such a current source has its limitations, but it can be useful for the vast majority of tasks that do not require special accuracy. The simplicity of the circuit and the availability of the components make it possible to throw together a current source on the knee.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

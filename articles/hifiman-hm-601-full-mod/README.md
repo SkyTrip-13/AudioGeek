@@ -106,4 +106,4 @@ On the downside, the battery drains quickly. It was also replaced, with one of 2
 
 **But it is worth it!**
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

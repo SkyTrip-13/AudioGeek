@@ -64,4 +64,4 @@ But this effect shows up only at currents much larger than 10–20 amperes, and 
 
 A wire really can affect sound. One way or another it has parasitic properties such as inductance, capacitance and resistance. But in any decent wire these parasitic values are so tiny that it is a sin to blame the cable if something sounds bad.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

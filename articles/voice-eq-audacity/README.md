@@ -190,4 +190,4 @@ I think you now have an idea of how to work with the equalizer and the spectrum 
 
 **Well, that is all from me, good sound to everyone!**
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

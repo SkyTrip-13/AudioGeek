@@ -58,4 +58,4 @@ Damping the internal volume with absorbing materials is also used to improve the
 
 Even a spherical enclosure, which has the best frequency response, has a rolloff in the low-frequency region. The most effective solution to this problem may be ***[using a passive radiator to lift the low-frequency region](../passivniy-izluchatel/)***.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

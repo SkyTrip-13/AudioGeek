@@ -74,4 +74,4 @@ As you can see, using a soldering iron is not as hard as it seems. If you manage
 
 [**Headphones not working? Repairing a headphone jack yourself**](../remont-razyoma-naushnikov/)
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

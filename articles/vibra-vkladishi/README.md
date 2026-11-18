@@ -79,4 +79,4 @@ After wearing them for two weeks, switching back to the unmodded pair, I realize
 
 Noise isolation also increased, which is very relevant on transport :)
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

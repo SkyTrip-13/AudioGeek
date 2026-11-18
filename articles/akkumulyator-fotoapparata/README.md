@@ -89,4 +89,4 @@ The wires for soldering were taken with a margin of 4–5 cm. This is so that th
 I am 101% happy with the resulting device. Now I can freely shoot video for several hours at a time. For monitoring charge you can also use [TP4056 modules](../kontroller-zaryada-li-ion-modul/).
 I am not urging you to repeat exactly what I made. It is only a demonstration that you can put together something worthwhile, and even working, out of junk and sticks.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

@@ -73,4 +73,4 @@ For the street, semi-closed are probably preferable. True, you will not immerse 
 
 **Good sound to all!**
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

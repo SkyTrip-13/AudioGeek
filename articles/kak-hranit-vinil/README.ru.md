@@ -65,4 +65,4 @@
 
 ![Как следует правильно хранить и мыть виниловые пластинки](./kak-sledit-za-vinilom-01.jpg)
 
-***Материал подготовлен исключительно для сайта** **[AudioGeek.ru](https://audiogeek.ru)***
+***Материал подготовлен исключительно для сайта** **[AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek)***

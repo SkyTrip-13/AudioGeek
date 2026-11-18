@@ -56,4 +56,4 @@ However, as everyone knows, companies making both high-quality and mass-market a
 
 Now it is worth returning to reality and saying that 100 dB is a very high sound level for a living space. Health authorities set a limit of 80 dB, and above that limit the ear is exposed to unpleasant sensations that can lead to temporary damage. Although it was said that 100 dB is reached only at peak moments, to listen to music at such a level it is advisable to live far from your neighbors. In the mountains, for example, or on your own island, or best of all to go to a concert hall. Or invite the orchestra to your island ;)
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

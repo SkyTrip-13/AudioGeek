@@ -60,4 +60,4 @@ I would like to add that the endless arguments on audiophile forums about the ri
 
 For correct perception of a musical program it is necessary to create **[the required sound pressure level](../kakaya-moshnost-realno-nujna-dlya-doma/)** during playback, which your neighbors will clearly not be happy about. So a loudness-compensated volume control can be seen as a successful compromise for preserving the correct tonal color of music at home.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

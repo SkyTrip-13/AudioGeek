@@ -49,4 +49,4 @@ With this connection and modern op-amps you can get an enormous input impedance,
 
 To solve this problem the instrumentation amplifier circuit is used, which has its own ***[separate article](../instrumental-amp/)***. The instrumentation amplifier itself is effectively a ready-made microphone preamp.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

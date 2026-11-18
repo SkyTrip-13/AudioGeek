@@ -28,4 +28,4 @@ Many have surely noticed that modern loudspeakers sound unnatural. This is mostl
 
 The examples listed do not exhaust all the techniques and considerations behind reducing driver efficiency. But they clearly show what compromises can be made for the sake of high fidelity.
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

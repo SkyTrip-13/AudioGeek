@@ -46,4 +46,4 @@ If you need to replace the wire going to the right earcup, the headphones will h
 
 **[Vibration damping of headphones: how and why](../vibro-dempfirovanie/)**
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

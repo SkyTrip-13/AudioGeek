@@ -74,4 +74,4 @@ Passive radiators have long been used in many types of speakers in place of a ba
 
 You may also be interested in: ***[How to place speakers in a room](../kak-razmestit-as-v-komnate/)***
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*

@@ -1,8 +1,10 @@
 [Русский](./README.ru.md) | **English**
 
+<p align="center"><img src="./assets/logo.png" width="140" alt="AudioGeek logo"></p>
+
 # AudioGeek: electronics and audio articles
 
-An archive of the blog **[audiogeek.ru](https://audiogeek.ru)** by Andrew Nebesny (Андрей Небесный): practical articles on analog electronics, audio circuits, headphones, vinyl and DIY. The site went offline in 2026, and the articles live on here, in Russian and in English.
+An archive of the blog **audiogeek.ru** by Andrew Nebesny (Андрей Небесный): practical articles on analog electronics, audio circuits, headphones, vinyl and DIY. The site went offline in 2026, and the articles live on here, in Russian and in English.
 
 - **57 articles**
 - Every article has its own folder with the text and all images:

@@ -102,4 +102,4 @@ That is the solid capability the Audacity audio editor offers for generating var
 
 Good luck!
 
-*Originally written for [AudioGeek.ru](https://audiogeek.ru). Translated from Russian.*
+*Originally written for [AudioGeek.ru](https://github.com/SkyTrip-13/AudioGeek). Translated from Russian.*
