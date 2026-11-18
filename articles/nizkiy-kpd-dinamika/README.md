@@ -2,7 +2,6 @@
 
 # Can low speaker efficiency be a good thing?
 
-**Published:** 2017-04-24  
 **Category:** Misc, Speaker components  
 **Tags:** sound quality  
 **Original:** https://audiogeek.ru/nizkiy-kpd-dinamika/

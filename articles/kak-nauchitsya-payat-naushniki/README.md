@@ -2,7 +2,6 @@
 
 # How to easily learn to solder wires properly, using headphones as an example
 
-**Published:** 2017-03-04  
 **Category:** Repair and testing, Headphone repair  
 **Original:** https://audiogeek.ru/kak-nauchitsya-payat-naushniki/
 

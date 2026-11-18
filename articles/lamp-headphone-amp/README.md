@@ -2,7 +2,6 @@
 
 # A DIY tube headphone amplifier with a transformerless output
 
-**Published:** 2020-07-27  
 **Category:** Audio circuit design  
 **Original:** https://audiogeek.ru/lamp-headphone-amp/
 

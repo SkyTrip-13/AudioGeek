@@ -2,7 +2,6 @@
 
 # Is digital sound really that good? Sampling rate and the Nyquist–Kotelnikov theorem
 
-**Published:** 2017-04-17  
 **Category:** Audio formats and quality  
 **Tags:** Audacity, sound quality  
 **Original:** https://audiogeek.ru/chastota-diskretizacii-teorema-kotelnikova/

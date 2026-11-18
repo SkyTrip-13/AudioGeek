@@ -2,7 +2,6 @@
 
 # A Soviet-style pulse soldering gun, built yourself
 
-**Published:** 2019-03-10  
 **Category:** Electronics  
 **Tags:** DIY  
 **Original:** https://audiogeek.ru/impulsniy-payalnik-svoimi-rukami/

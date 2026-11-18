@@ -2,7 +2,6 @@
 
 # RC circuits: the 5 most common filter circuits and how to calculate them
 
-**Published:** 2017-08-18  
 **Category:** Audio circuit design  
 **Tags:** audio filters  
 **Original:** https://audiogeek.ru/rc-circuit/

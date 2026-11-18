@@ -2,7 +2,6 @@
 
 # How to quickly and easily process a voice recording in Audacity
 
-**Published:** 2017-04-02  
 **Category:** Audio processing  
 **Tags:** Audacity, audio processing  
 **Original:** https://audiogeek.ru/kak-obrabotat-golos-audacity/

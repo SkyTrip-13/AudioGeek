@@ -2,7 +2,6 @@
 
 # Types of headphones: differences and characteristics
 
-**Published:** 2018-11-16  
 **Category:** Headphone types  
 **Original:** https://audiogeek.ru/headphones-types/
 

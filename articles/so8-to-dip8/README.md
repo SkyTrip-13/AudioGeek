@@ -2,7 +2,6 @@
 
 # An SO8 to DIP8 adapter for ICs
 
-**Published:** 2019-01-06  
 **Category:** Electronics  
 **Tags:** AliExpress, op-amp circuit  
 **Original:** https://audiogeek.ru/so8-to-dip8/

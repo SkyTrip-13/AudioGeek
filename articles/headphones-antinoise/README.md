@@ -2,7 +2,6 @@
 
 # How active noise-cancelling headphones work
 
-**Published:** 2017-11-02  
 **Category:** Headphone types  
 **Original:** https://audiogeek.ru/headphones-antinoise/
 

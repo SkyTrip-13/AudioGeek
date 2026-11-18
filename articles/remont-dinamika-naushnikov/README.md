@@ -2,7 +2,6 @@
 
 # Headphone driver not working? How to repair a headphone driver
 
-**Published:** 2017-12-22  
 **Category:** Headphone repair  
 **Tags:** DIY  
 **Original:** https://audiogeek.ru/remont-dinamika-naushnikov/

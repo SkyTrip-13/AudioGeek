@@ -2,7 +2,6 @@
 
 # Taking apart and lightly damping the Sennheiser HD 380 Pro
 
-**Published:** 2017-01-05  
 **Category:** Headphone mods  
 **Tags:** Sennheiser HD380 Pro  
 **Original:** https://audiogeek.ru/dempf-senhi-hd380pro/

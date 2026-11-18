@@ -2,7 +2,6 @@
 
 # A high-quality audio path: a complete mod of the HiFiMan HM-601 player
 
-**Published:** 2019-02-04  
 **Category:** Audio circuit design  
 **Tags:** AliExpress, audio filters, op-amp circuit, DAC  
 **Original:** https://audiogeek.ru/hifiman-hm-601-full-mod/

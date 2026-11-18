@@ -2,7 +2,6 @@
 
 # A current source on the 7805 and other 78xx regulators
 
-**Published:** 2018-09-07  
 **Category:** Useful circuits  
 **Tags:** power supply  
 **Original:** https://audiogeek.ru/current-source-7805/

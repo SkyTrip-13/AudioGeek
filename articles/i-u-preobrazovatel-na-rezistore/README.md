@@ -2,7 +2,6 @@
 
 # A resistor as the I/V converter for a current-output DAC
 
-**Published:** 2018-12-06  
 **Category:** Audio circuit design  
 **Tags:** sound quality, op-amp circuit, DAC  
 **Original:** https://audiogeek.ru/i-u-preobrazovatel-na-rezistore/

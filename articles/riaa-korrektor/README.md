@@ -2,7 +2,6 @@
 
 # Vinyl RIAA preamp: proven simple circuits
 
-**Published:** 2017-08-01  
 **Category:** Vinyl, Audio circuit design  
 **Tags:** audio filters, op-amp circuit  
 **Original:** https://audiogeek.ru/riaa-korrektor/

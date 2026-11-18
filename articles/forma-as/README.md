@@ -2,7 +2,6 @@
 
 # A round speaker sounds better than a square one
 
-**Published:** 2017-01-03  
 **Category:** Speaker basics  
 **Tags:** sound quality  
 **Original:** https://audiogeek.ru/forma-as/

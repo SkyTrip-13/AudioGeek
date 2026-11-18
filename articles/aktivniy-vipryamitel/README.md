@@ -2,7 +2,6 @@
 
 # Active rectifier: precise measurement of AC voltage
 
-**Published:** 2017-07-01  
 **Category:** Useful circuits  
 **Tags:** measurements, op-amp circuit  
 **Original:** https://audiogeek.ru/aktivniy-vipryamitel/

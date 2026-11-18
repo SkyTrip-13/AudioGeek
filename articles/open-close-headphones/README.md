@@ -2,7 +2,6 @@
 
 # Open-back and closed-back headphones: which is better for what
 
-**Published:** 2017-09-29  
 **Category:** Headphone types  
 **Original:** https://audiogeek.ru/open-close-headphones/
 

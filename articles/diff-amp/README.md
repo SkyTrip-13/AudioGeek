@@ -2,7 +2,6 @@
 
 # Differential amplifier: an op-amp circuit and what it is for
 
-**Published:** 2017-09-03  
 **Category:** Useful circuits  
 **Tags:** measurements, op-amp circuit  
 **Original:** https://audiogeek.ru/diff-amp/

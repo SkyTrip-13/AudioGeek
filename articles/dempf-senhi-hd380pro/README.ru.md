@@ -2,7 +2,6 @@
 
 # Разбор и легкое демпфирование Sennheiser HD 380 Pro
 
-**Дата:** 2017-01-05  
 **Рубрики:** Доработка наушников  
 **Метки:** sennheiser hd380 pro  
 **Оригинал:** https://audiogeek.ru/dempf-senhi-hd380pro/

@@ -2,7 +2,6 @@
 
 # How to place loudspeakers properly in a room
 
-**Published:** 2017-03-20  
 **Category:** Speaker basics  
 **Tags:** sound quality  
 **Original:** https://audiogeek.ru/kak-razmestit-as-v-komnate/

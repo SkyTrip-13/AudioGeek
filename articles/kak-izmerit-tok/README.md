@@ -2,7 +2,6 @@
 
 # How to measure current in a circuit with any accuracy
 
-**Published:** 2019-02-20  
 **Category:** Useful circuits  
 **Tags:** measurements, op-amp circuit  
 **Original:** https://audiogeek.ru/kak-izmerit-tok/

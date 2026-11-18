@@ -2,7 +2,6 @@
 
 # How much amplifier and speaker power you really need at home
 
-**Published:** 2017-02-10  
 **Category:** Speaker basics  
 **Tags:** sound quality  
 **Original:** https://audiogeek.ru/kakaya-moshnost-realno-nujna-dlya-doma/

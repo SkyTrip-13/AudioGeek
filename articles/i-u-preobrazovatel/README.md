@@ -2,7 +2,6 @@
 
 # Current-to-voltage converter on an op-amp
 
-**Published:** 2018-01-03  
 **Category:** Useful circuits, Audio circuit design  
 **Tags:** op-amp circuit, DAC  
 **Original:** https://audiogeek.ru/i-u-preobrazovatel/

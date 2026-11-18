@@ -2,7 +2,6 @@
 
 # Op-amp headphone amplifier with doubled output current
 
-**Published:** 2018-05-11 (reworked 2020-04-24)  
 **Category:** Audio circuit design  
 **Original:** https://audiogeek.ru/headphone-amp-dual-current/
 

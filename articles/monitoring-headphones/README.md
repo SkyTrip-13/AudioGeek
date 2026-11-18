@@ -2,7 +2,6 @@
 
 # Studio monitor headphones: what makes them special
 
-**Published:** 2017-10-04  
 **Category:** Headphone types, Misc  
 **Original:** https://audiogeek.ru/monitoring-headphones/
 

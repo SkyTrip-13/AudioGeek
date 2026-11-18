@@ -2,7 +2,6 @@
 
 # How to test an audio amplifier with a square wave
 
-**Published:** 2017-01-29  
 **Category:** Repair and testing  
 **Tags:** measurements  
 **Original:** https://audiogeek.ru/kak-proverit-uselitel-meandrom/

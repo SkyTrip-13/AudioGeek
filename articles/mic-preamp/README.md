@@ -2,7 +2,6 @@
 
 # An electret microphone preamp (with PCB)
 
-**Published:** 2020-09-03  
 **Category:** Audio circuit design  
 **Original:** https://audiogeek.ru/mic-preamp/
 

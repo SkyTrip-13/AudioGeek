@@ -2,7 +2,6 @@
 
 # How to digitize vinyl records
 
-**Published:** 2018-10-08  
 **Category:** Vinyl  
 **Tags:** Audacity, audio processing  
 **Original:** https://audiogeek.ru/ocifrovat-vinil/

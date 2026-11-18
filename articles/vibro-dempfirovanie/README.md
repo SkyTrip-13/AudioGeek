@@ -2,7 +2,6 @@
 
 # Damping headphones with a vibration absorber
 
-**Published:** 2017-01-04  
 **Category:** Headphone mods  
 **Tags:** sennheiser hd380 pro  
 **Original:** https://audiogeek.ru/vibro-dempfirovanie/

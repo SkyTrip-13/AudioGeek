@@ -2,7 +2,6 @@
 
 # Headphone repair: how to solder a plug onto headphones
 
-**Published:** 2017-01-01  
 **Category:** Headphone repair  
 **Original:** https://audiogeek.ru/remont-razyoma-naushnikov/
 

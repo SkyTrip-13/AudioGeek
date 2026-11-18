@@ -2,7 +2,6 @@
 
 # A 2nd-order Butterworth low-pass filter circuit
 
-**Published:** 2018-10-28  
 **Category:** Audio circuit design  
 **Tags:** audio filters, op-amp circuit  
 **Original:** https://audiogeek.ru/second-order-low-pass-filter/

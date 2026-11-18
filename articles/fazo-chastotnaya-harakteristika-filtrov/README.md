@@ -2,7 +2,6 @@
 
 # Filter phase response and sound
 
-**Published:** 2019-04-12  
 **Category:** Audio circuit design  
 **Tags:** audio filters, sound quality  
 **Original:** https://audiogeek.ru/fazo-chastotnaya-harakteristika-filtrov/

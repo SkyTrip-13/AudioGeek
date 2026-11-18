@@ -2,7 +2,6 @@
 
 # An external battery for a Canon 550D camera
 
-**Published:** 2020-03-17  
 **Category:** Misc  
 **Original:** https://audiogeek.ru/akkumulyator-fotoapparata/
 

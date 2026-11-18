@@ -2,7 +2,6 @@
 
 # An op-amp voltage follower circuit, and a powerful voltage follower on the TDA2030
 
-**Published:** 2018-01-04  
 **Category:** Useful circuits  
 **Tags:** op-amp circuit  
 **Original:** https://audiogeek.ru/povtoritel-opamp/

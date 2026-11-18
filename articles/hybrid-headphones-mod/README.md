@@ -2,7 +2,6 @@
 
 # How to improve the sound of hybrid earphones, using the KZ ES3 as an example
 
-**Published:** 2019-01-21  
 **Category:** Headphone mods  
 **Tags:** Chinese earphones, DIY  
 **Original:** https://audiogeek.ru/hybrid-headphones-mod/

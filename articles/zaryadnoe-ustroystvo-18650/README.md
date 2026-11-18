@@ -2,7 +2,6 @@
 
 # An 18650 battery charger: how to raise the charge current of a lithium cell
 
-**Published:** 2018-05-26  
 **Category:** Repair and testing  
 **Tags:** power supply, DIY  
 **Original:** https://audiogeek.ru/zaryadnoe-ustroystvo-18650/

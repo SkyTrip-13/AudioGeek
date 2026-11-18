@@ -2,7 +2,6 @@
 
 # Vinyl RIAA equalization
 
-**Published:** 2017-01-15  
 **Category:** Vinyl, Misc  
 **Original:** https://audiogeek.ru/riaa-vinil-korrekciya/
 

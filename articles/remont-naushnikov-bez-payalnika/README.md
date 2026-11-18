@@ -2,7 +2,6 @@
 
 # Fixing headphones with your bare hands, no soldering iron!
 
-**Published:** 2017-02-23  
 **Category:** Headphone repair  
 **Tags:** DIY  
 **Original:** https://audiogeek.ru/remont-naushnikov-bez-payalnika/

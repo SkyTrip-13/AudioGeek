@@ -2,7 +2,6 @@
 
 # Sennheiser HD 380 pro и PXC 350 разбор шарниров
 
-**Дата:** 2017-10-16  
 **Рубрики:** Ремонт наушников  
 **Метки:** sennheiser hd380 pro  
 **Оригинал:** https://audiogeek.ru/sennheiser-hd380pro-sharnir/

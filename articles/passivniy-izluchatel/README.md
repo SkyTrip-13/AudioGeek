@@ -2,7 +2,6 @@
 
 # A passive radiator boosts the bass of a speaker
 
-**Published:** 2017-01-19  
 **Category:** Misc, Speaker components  
 **Tags:** sound quality  
 **Original:** https://audiogeek.ru/passivniy-izluchatel/

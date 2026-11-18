@@ -2,7 +2,6 @@
 
 # Equalizing a voice recording in Audacity
 
-**Published:** 2019-08-10  
 **Category:** Audio processing  
 **Tags:** Audacity, sound quality, audio processing  
 **Original:** https://audiogeek.ru/voice-eq-audacity/

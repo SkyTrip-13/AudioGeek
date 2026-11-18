@@ -2,7 +2,6 @@
 
 # Making your own earpads: a TDS-5 example
 
-**Published:** 2017-08-14  
 **Category:** Headphone accessories, Headphone mods  
 **Tags:** earpads, DIY  
 **Original:** https://audiogeek.ru/earpads/

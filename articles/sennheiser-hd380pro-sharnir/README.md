@@ -2,7 +2,6 @@
 
 # Sennheiser HD 380 Pro and PXC 350: taking the hinges apart
 
-**Published:** 2017-10-16  
 **Category:** Headphone repair  
 **Tags:** sennheiser hd380 pro  
 **Original:** https://audiogeek.ru/sennheiser-hd380pro-sharnir/

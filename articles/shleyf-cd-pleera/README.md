@@ -2,7 +2,6 @@
 
 # How to repair the flat cable of a CD player's pickup head
 
-**Published:** 2017-01-12  
 **Category:** Repair and testing  
 **Original:** https://audiogeek.ru/shleyf-cd-pleera/
 

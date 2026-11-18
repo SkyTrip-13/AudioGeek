@@ -2,7 +2,6 @@
 
 # A smart Li-ion charge controller: the TP4056 module
 
-**Published:** 2019-07-08  
 **Category:** Electronics  
 **Tags:** AliExpress, ready-made module, power supply  
 **Original:** https://audiogeek.ru/kontroller-zaryada-li-ion-modul/

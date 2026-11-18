@@ -2,7 +2,6 @@
 
 # Caring for and washing vinyl records at home
 
-**Published:** 2017-05-21  
 **Category:** Vinyl  
 **Original:** https://audiogeek.ru/kak-hranit-vinil/
 

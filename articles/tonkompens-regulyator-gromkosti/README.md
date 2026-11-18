@@ -2,7 +2,6 @@
 
 # What a loudness-compensated volume control is, with example circuits
 
-**Published:** 2017-06-13  
 **Category:** Audio circuit design  
 **Original:** https://audiogeek.ru/tonkompens-regulyator-gromkosti/
 

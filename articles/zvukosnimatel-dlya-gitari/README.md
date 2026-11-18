@@ -2,7 +2,6 @@
 
 # A new pickup for your guitar: how to install it
 
-**Published:** 2018-11-01  
 **Category:** Guitar care and setup  
 **Tags:** DIY  
 **Original:** https://audiogeek.ru/zvukosnimatel-dlya-gitari/

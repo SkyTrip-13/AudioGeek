@@ -2,7 +2,6 @@
 
 # Audacity as a simple sound and noise generator
 
-**Published:** 2017-03-26  
 **Category:** Audio processing, Useful software  
 **Tags:** Audacity  
 **Original:** https://audiogeek.ru/generaciya-signalov-audacity/

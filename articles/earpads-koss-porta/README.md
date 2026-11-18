@@ -2,7 +2,6 @@
 
 # The perfect earpads for the Koss Porta Pro
 
-**Published:** 2019-02-27  
 **Category:** Headphone accessories  
 **Tags:** AliExpress, earpads  
 **Original:** https://audiogeek.ru/earpads-koss-porta/

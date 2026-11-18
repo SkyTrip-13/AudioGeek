@@ -2,7 +2,6 @@
 
 # Instrumentation amplifier: the best circuits and a full description
 
-**Published:** 2017-09-18  
 **Category:** Useful circuits  
 **Tags:** measurements, op-amp circuit  
 **Original:** https://audiogeek.ru/instrumental-amp/

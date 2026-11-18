@@ -2,7 +2,6 @@
 
 # Improving the sound of earbuds: an interesting mod
 
-**Published:** 2017-01-06  
 **Category:** Headphone mods  
 **Original:** https://audiogeek.ru/vibra-vkladishi/
 

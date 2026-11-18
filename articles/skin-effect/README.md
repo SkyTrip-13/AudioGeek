@@ -2,7 +2,6 @@
 
 # The skin effect in audio conductors
 
-**Published:** 2019-04-17  
 **Category:** Audio circuit design  
 **Tags:** sound quality  
 **Original:** https://audiogeek.ru/skin-effect/

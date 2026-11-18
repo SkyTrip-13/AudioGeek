@@ -2,7 +2,6 @@
 
 # A simple, high-quality sine wave generator based on a Wien bridge
 
-**Published:** 2018-02-04  
 **Category:** Useful circuits  
 **Tags:** measurements, op-amp circuit  
 **Original:** https://audiogeek.ru/sinus-generator/

@@ -2,7 +2,6 @@
 
 # A dual supply from a single supply for portable gear with the TPS65133
 
-**Published:** 2018-09-03  
 **Category:** Useful circuits  
 **Tags:** DC-DC converter, power supply  
 **Original:** https://audiogeek.ru/unipolar-to-bipolar-voltage-converter/

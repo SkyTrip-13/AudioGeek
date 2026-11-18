@@ -2,7 +2,6 @@
 
 # A gyrator low-pass filter for DACs and ADCs
 
-**Published:** 2018-12-28  
 **Category:** Audio circuit design  
 **Tags:** audio filters, op-amp circuit, DAC  
 **Original:** https://audiogeek.ru/filtri-na-gyratorah/

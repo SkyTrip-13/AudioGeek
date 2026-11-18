@@ -2,7 +2,6 @@
 
 # Negative voltage from a positive supply with the MAX660 or MAX865
 
-**Published:** 2018-06-09  
 **Category:** Useful circuits  
 **Tags:** DC-DC converter, power supply  
 **Original:** https://audiogeek.ru/otricatelnoe-napryajenie-iz-polojitelnogo/
